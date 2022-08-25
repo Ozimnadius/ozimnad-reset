@@ -52,12 +52,7 @@ a:not([class]) {
 
 a:is([class]) {
     text-decoration: none;
-    color: currentColor;
     outline: none;
-}
-
-a:is([class]):hover {
-    color: currentColor;
 }
 
 
