@@ -45,15 +45,12 @@ body {
     line-height: 1.42;
 }
 
-/* A elements that don't have a class get default styles */
-a:not([class]) {
-    text-decoration-skip-ink: auto;
-}
-
-a:is([class]) {
+a{
+    color: currentColor;
     text-decoration: none;
     outline: none;
 }
+
 
 
 /* Make images easier to work with */
