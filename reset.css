@@ -60,6 +60,8 @@ svg {
     max-width: 100%;
     display: block;
     height: auto;
+    font-style: italic;
+    shape-margin: 1rem;
 }
 
 input,
