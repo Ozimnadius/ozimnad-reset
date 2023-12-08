@@ -1,6 +1,6 @@
 {
   "name": "ozimnad-reset",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Simple css reset",
   "main": "src/ozimnad-reset.css",
   "repository": {
